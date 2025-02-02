@@ -1,1 +1,5 @@
-Texto de inicialização do git
+git init: Utilizado para iniciar os repositórios
+
+git remote -v: Lista minhas URL's de fetch e push
+
+git status: Fornece status sobre os meus arquivos do repositório (Untracked File / Modified but not staged / Staged Files)
