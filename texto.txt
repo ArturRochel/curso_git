@@ -3,3 +3,9 @@ git init: Utilizado para iniciar os repositórios
 git remote -v: Lista minhas URL's de fetch e push
 
 git status: Fornece status sobre os meus arquivos do repositório (Untracked File / Modified but not staged / Staged Files)
+
+git commit: Deixa os arquivos no stage prontos para serem enviados ao repositório remoto
+
+git push: Envia os arquivos e alterações para o repositório remoto
+
+git pull: Puxa as alterações do repositório remoto para o repositório local
